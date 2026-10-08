@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoAnTinHoc", "DoAnTinHoc\DoAnTinHoc.csproj", "{9AAF8CB8-6223-440D-A578-EC7D39631924}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AAF8CB8-6223-440D-A578-EC7D39631924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AAF8CB8-6223-440D-A578-EC7D39631924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AAF8CB8-6223-440D-A578-EC7D39631924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AAF8CB8-6223-440D-A578-EC7D39631924}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4638659-1649-4219-8E22-08994654CCE3}
+	EndGlobalSection
+EndGlobal

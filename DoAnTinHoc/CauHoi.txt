@@ -1,0 +1,32 @@
+1 | Nguyễn Quốc Thắng | Ảnh:Ảnh DATH\AnhNam\7.jpg | Độ tuổi: 26-41 | Sở thích: 🌄 Leo núi, ☕ Đi cà phê, 📚 Đọc sách, 🐾 Yêu thú cưng | Tính cách: Trầm tính, điềm đạm
+2 | Bùi Quốc Anh | Ảnh:Ảnh DATH\AnhNam\8.jpg | Độ tuổi: 26-41 | Sở thích: 🌄 Leo núi, 🏃‍♀️ Thể thao | Tính cách: Năng động, hướng ngoại
+3 | Trần Thanh Hải | Ảnh:Ảnh DATH\AnhNam\1.jpg | Độ tuổi: 29-35 | Sở thích: 🐾 Yêu thú cưng, 🎬 Xem phim, 📚 Đọc sách | Tính cách: Năng động, hướng ngoại
+4 | Nguyễn An Thuyên | Ảnh:Ảnh DATH\AnhNu\3.jpg | Độ tuổi: 29-39 | Sở thích: 🍜 Ăn uống, 🏃‍♀️ Thể thao | Tính cách: Năng động, hướng ngoại
+5 | Nguyễn Chí Cường | Ảnh:Ảnh DATH\AnhNam\4.jpg | Độ tuổi: 18-31 | Sở thích: 🐾 Yêu thú cưng, ✈️ Du lịch, 🌄 Leo núi, 📷 Chụp ảnh | Tính cách: Năng động, hướng ngoại
+6 | Trần Thanh Tài | Ảnh:Ảnh DATH\AnhNam\1.jpg | Độ tuổi: 25-39 | Sở thích: 🏃‍♀️ Thể thao, ☕ Đi cà phê, 🐾 Yêu thú cưng | Tính cách: Trầm tính, điềm đạm
+7 | Nguyễn Tấn Phát | Ảnh:Ảnh DATH\AnhNam\3.jpg | Độ tuổi: 25-38 | Sở thích: ☕ Đi cà phê, 🎬 Xem phim | Tính cách: Hòa đồng, vui vẻ
+8 | Nguyễn Tấn Tài | Ảnh:Ảnh DATH\AnhNu\6.jpg | Độ tuổi: 29-39 | Sở thích: 🌄 Leo núi, 🎬 Xem phim, 🧘‍♂️ Yoga | Tính cách: Chu đáo, tình cảm
+9 | Tô Thành Thái | Ảnh:Ảnh DATH\AnhNam\3.jpg | Độ tuổi: 23-35 | Sở thích: 🐾 Yêu thú cưng, 🍜 Ăn uống, 🧘‍♂️ Yoga, 🎮 Chơi game | Tính cách: Hòa đồng, vui vẻ
+10 | Nguyễn Nhật Thiện | Ảnh:Ảnh DATH\AnhNam\4.jpg | Độ tuổi: 24-38 | Sở thích: 🧘‍♂️ Yoga, 🌄 Leo núi, 🎵 Nghe nhạc, 🎬 Xem phim | Tính cách: Độc lập, cá tính
+11 | Nguyễn Thị Mai | Ảnh:Ảnh DATH\AnhNam\7.jpg | Độ tuổi: 21-28 | Sở thích: ✈️ Du lịch, 🌄 Leo núi, 🧘‍♂️ Yoga | Tính cách: Năng động, hướng ngoại
+12 | Trần Ngọc Anh | Ảnh:Ảnh DATH\AnhNu\8.jpg | Độ tuổi: 27-36 | Sở thích: 🏃‍♀️ Thể thao, ✈️ Du lịch | Tính cách: Trầm tính, điềm đạm
+13 | Đỗ Hải Yến | Ảnh:Ảnh DATH\AnhNu\8.jpg | Độ tuổi: 22-27 | Sở thích: 🎬 Xem phim, 🐾 Yêu thú cưng, 📚 Đọc sách, 🌄 Leo núi | Tính cách: Năng động, hướng ngoại
+14 | Lê Hoàng Yến | Ảnh:Ảnh DATH\AnhNam\6.jpg | Độ tuổi: 20-35 | Sở thích: 🍜 Ăn uống, 🏃‍♀️ Thể thao, ☕ Đi cà phê | Tính cách: Năng động, hướng ngoại
+15 | Phạm Thu Hằng | Ảnh:Ảnh DATH\AnhNu\3.jpg | Độ tuổi: 24-34 | Sở thích: 🎬 Xem phim, 📷 Chụp ảnh | Tính cách: Độc lập, cá tính
+16 | Hoàng Minh Thư | Ảnh:Ảnh DATH\AnhNam\4.jpg | Độ tuổi: 29-42 | Sở thích: 🎮 Chơi game, 🎵 Nghe nhạc, 📚 Đọc sách, ✈️ Du lịch | Tính cách: Năng động, hướng ngoại
+17 | Võ Bảo Trân | Ảnh:Ảnh DATH\AnhNam\10.jpg | Độ tuổi: 24-37 | Sở thích: ✈️ Du lịch, ☕ Đi cà phê, 📷 Chụp ảnh | Tính cách: Chu đáo, tình cảm
+18 | Đặng Thùy Dung | Ảnh:Ảnh DATH\AnhNam\10.jpg | Độ tuổi: 21-32 | Sở thích: 🐾 Yêu thú cưng, 🌄 Leo núi, 📚 Đọc sách | Tính cách: Độc lập, cá tính
+19 | Bùi Khánh Linh | Ảnh:Ảnh DATH\AnhNam\7.jpg | Độ tuổi: 29-37 | Sở thích: 🐾 Yêu thú cưng, 🌄 Leo núi, 🎵 Nghe nhạc, 🍜 Ăn uống | Tính cách: Hòa đồng, vui vẻ
+20 | Huỳnh Thanh Tuyền | Ảnh:Ảnh DATH\AnhNu\6.jpg | Độ tuổi: 19-24 | Sở thích: 📷 Chụp ảnh, 🧘‍♂️ Yoga, 🍜 Ăn uống, 🐾 Yêu thú cưng | Tính cách: Độc lập, cá tính
+21 | Bùi Thanh Hà | Ảnh:Ảnh DATH\AnhNam\1.jpg | Độ tuổi: 21-32 | Sở thích: ☕ Đi cà phê, ✈️ Du lịch, 🎮 Chơi game, 🎬 Xem phim | Tính cách: Trầm tính, điềm đạm
+22 | Lê Anh Hùng | Ảnh:Ảnh DATH\AnhNam\7.jpg | Độ tuổi: 23-32 | Sở thích: 🎵 Nghe nhạc, 🌄 Leo núi, 🎮 Chơi game, 🐾 Yêu thú cưng | Tính cách: Chu đáo, tình cảm
+23 | Trần Thị Lan | Ảnh:Ảnh DATH\AnhNam\1.jpg | Độ tuổi: 23-36 | Sở thích: 🧘‍♂️ Yoga, 🎬 Xem phim | Tính cách: Năng động, hướng ngoại
+24 | Lê Ngọc Thảo | Ảnh:Ảnh DATH\AnhNam\9.jpg | Độ tuổi: 30-42 | Sở thích: 🐾 Yêu thú cưng, ☕ Đi cà phê, 🎬 Xem phim | Tính cách: Độc lập, cá tính
+25 | Huỳnh Ngọc Duy | Ảnh:Ảnh DATH\AnhNam\8.jpg | Độ tuổi: 20-26 | Sở thích: 📚 Đọc sách, 🎵 Nghe nhạc, 📷 Chụp ảnh, 🎮 Chơi game | Tính cách: Năng động, hướng ngoại
+26 | Võ Thị Hùng | Ảnh:Ảnh DATH\AnhNu\1.jpg | Độ tuổi: 18-32 | Sở thích: 🧘‍♂️ Yoga, 🍜 Ăn uống | Tính cách: Trầm tính, điềm đạm
+27 | Trần Thanh Vy | Ảnh:Ảnh DATH\AnhNam\10.jpg | Độ tuổi: 21-26 | Sở thích: 🐾 Yêu thú cưng, 🧘‍♂️ Yoga | Tính cách: Chu đáo, tình cảm
+28 | Lê Tấn Vy | Ảnh:Ảnh DATH\AnhNam\3.jpg | Độ tuổi: 27-32 | Sở thích: 🌄 Leo núi, 📚 Đọc sách, 📷 Chụp ảnh | Tính cách: Chu đáo, tình cảm
+29 | Hoàng Thanh Hiếu | Ảnh:Ảnh DATH\AnhNu\4.jpg | Độ tuổi: 28-35 | Sở thích: 📷 Chụp ảnh, 🌄 Leo núi | Tính cách: Độc lập, cá tính
+30 | Bùi Bảo Vy | Ảnh:Ảnh DATH\AnhNam\1.jpg | Độ tuổi: 19-34 | Sở thích: 📷 Chụp ảnh, 📚 Đọc sách, 🎬 Xem phim, ☕ Đi cà phê | Tính cách: Trầm tính, điềm đạm
+31 | Trần Thanh Tâm | Ảnh:Ảnh DATH\AnhNam\Tâm.jpg | Độ tuổi: 21-30 | Sở thích: 🎬 Xem phim, 🎵 Nghe nhạc, ☕ Đi cà phê, 🍜 Ăn uống | Tính cách: Hòa đồng, vui vẻ
+32 | Trần Thanh Tâm12 | Ảnh:Ảnh DATH\AnhNam\1.jpg | Độ tuổi: 20-29 | Sở thích: 🎵 Nghe nhạc, 🏃‍♀️ Thể thao | Tính cách: Trầm tính, điềm đạm
