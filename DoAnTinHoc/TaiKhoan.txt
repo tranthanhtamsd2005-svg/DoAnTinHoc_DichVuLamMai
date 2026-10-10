@@ -28,6 +28,3 @@
 28 | Lê Tấn Vy | pass28 | user28@gmail.com | Nam | Tuoi43
 29 | Hoàng Thanh Hiếu | pass29 | user29@gmail.com | Nam | Tuoi21
 30 | Bùi Bảo Vy | pass30 | user30@gmail.com | Nam | Tuoi20
-32 | Trần Thanh Tâm | thanhtam123 | thanhtam123@gmail.com | Nam | Tuoi21
-33 | Trần Thanh Tâm12 | thanhtam123 | thanhtam123aa@gmail.com | Nam
-33 | sssseee | 123456 | awe@gmail.com | Nam
